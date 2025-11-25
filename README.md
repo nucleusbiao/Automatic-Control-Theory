@@ -157,12 +157,10 @@ plt.show()
 
 如有问题或建议，请通过以下方式联系：
 - 提交GitHub Issue
-- 发送邮件至：your-email@example.com
+- 发送邮件至：hubiao@cau.edu.cn
 
 ## 🌟 致谢
 
 感谢所有为本课程资源库做出贡献的老师和同学们！
 
----
 
-*最后更新: 2024年1月*
